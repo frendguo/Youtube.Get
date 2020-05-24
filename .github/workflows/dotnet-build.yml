@@ -1,5 +1,9 @@
-name: .NET Core
+name: dotnet Build
 
+defaults:
+  run:
+     shell: pwsh
+     
 on:
   push:
     branches: [ master ]
