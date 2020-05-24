@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Youtube.Get": {
+      "commandName": "Project",
+      "commandLineArgs": "-url https://www.youtube.com/watch?v=av5YNd4X3dY"
+    }
+  }
+}
