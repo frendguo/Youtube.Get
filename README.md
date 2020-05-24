@@ -2,6 +2,12 @@
 
 用于下载 Youtube 视频的 dotnet tool。
 
+## 怎么下载？
+
+```powershell
+dotnet tool install -g vget
+```
+
 ## 怎么用？
 
 - 通过视频链接下载视频到桌面
