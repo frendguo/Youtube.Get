@@ -2,8 +2,7 @@ name: NuGet Publish
 
 on:
   push:
-    barnches:
-      - master
+    branches: [ master ]
 
 jobs:
   build:

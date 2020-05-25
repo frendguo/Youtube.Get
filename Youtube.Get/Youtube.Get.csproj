@@ -6,6 +6,10 @@
 
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>vget</ToolCommandName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>用于下载youtube视频</Description>
+    <Authors>frendguo</Authors>
+    <PackageProjectUrl>https://github.com/frendguo/Youtube.Get</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
