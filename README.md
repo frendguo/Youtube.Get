@@ -4,7 +4,7 @@
 
 | Build | NuGet |
 |--|--|
-|![](https://github.com/frendguo/Youtube.Get/workflows/.NET%20Core/badge.svg)|[![](https://img.shields.io/nuget/v/Youtube.Get.svg)](https://www.nuget.org/packages/Youtube.Get)|
+|![.net build](https://github.com/frendguo/Youtube.Get/workflows/dotnet%20Build/badge.svg)|[![](https://img.shields.io/nuget/v/Youtube.Get.svg)](https://www.nuget.org/packages/Youtube.Get)|
 
 ## 怎么下载？
 
