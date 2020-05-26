@@ -9,7 +9,7 @@
 ## 怎么下载？
 
 ```powershell
-dotnet tool install -g vget
+dotnet tool install -g youtube.get
 ```
 
 ## 怎么用？
